@@ -58,5 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width: 600px) {
     .carousel-caption {
       font-size: 30px;
+      position: absolute;
+      top:10px
     }
   }
